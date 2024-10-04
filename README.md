@@ -7,8 +7,6 @@
 - Take a screenshot of your circuit
 - [  ] Take a screenshot of your circuit and upload it to this repository 
 
-![Screenshot from 2024-10-04 12-36-49](https://github.com/user-attachments/assets/3a9e00a3-c6d2-4ca6-9dce-77e55634d102)
-
 ## Part II - Python3
 
 - Redo part I with real components; however, for your power source, use GPIO pins on your Raspberry Pi. _Turn off your Pi when connecting cables to the GPIO ports._
@@ -16,13 +14,8 @@
 - You will need to import the `GPIO` and `time` libraries for this assignment.
 - Add comments to your Python script to explain how it works.
 - Take a short video of your stoplight working and a clear top-down photo of your wiring
+
 - [ ] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
-
-![IMG_4646](https://github.com/user-attachments/assets/98de4948-9f8a-4b29-a5f5-5e0c8e743a6c)
-
-https://github.com/user-attachments/assets/8717d9bf-b082-49e2-bf15-1fda7b6fdaf4
-
-git add-- 
 
 ## Part III - RBG LED  
 
