@@ -16,8 +16,13 @@
 - You will need to import the `GPIO` and `time` libraries for this assignment.
 - Add comments to your Python script to explain how it works.
 - Take a short video of your stoplight working and a clear top-down photo of your wiring
-
 - [ ] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
+
+![IMG_4646](https://github.com/user-attachments/assets/98de4948-9f8a-4b29-a5f5-5e0c8e743a6c)
+
+https://github.com/user-attachments/assets/8717d9bf-b082-49e2-bf15-1fda7b6fdaf4
+
+git add-- 
 
 ## Part III - RBG LED  
 
